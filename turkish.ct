@@ -136,12 +136,6 @@ MSG_LISTEXP_EMULATED
 AmigaXL: Sürüm %s\n\
 Sunucu : OS: %s (Sürüm %s), %s\n\
          CPU: %s/%s\n
-
-
-
-================================================================
-       GURU STRINGS (2000..)
-================================================================
 ;          -- emulated system detected --\n\
 ; AmigaXL: Version %s\n\
 ; Host:    OS: %s (Version %s), %s\n\
@@ -182,13 +176,6 @@ Belirtilen: %s\n\n
 ;
 MSG_GURU_NOLAST
 Henüz bir Guru oluþmadý...\n\n
-
-
-
-================================================================
-       FUNC STRINGS (1000..)
-================================================================
-; No Guru occured yet...\n\n
 ;
 ;
 ;
@@ -214,8 +201,7 @@ MSG_FUNC_RESULT
   Library:    %s\n\
   Offset:     %ld\n\
   Function:   %s\n\n
-
-================================================================
+;================================================================
 ;  Library:    %s\n\
 ;  Offset:     %ld\n\
 ;  Function:   %s\n\n
